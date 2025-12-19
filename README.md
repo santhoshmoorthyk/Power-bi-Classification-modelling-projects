@@ -1,0 +1,1 @@
+This repository contains Power BI–based classification modeling work, focusing on data preparation, data modeling, DAX calculations, and interactive dashboards. It demonstrates how classification techniques can be applied to analyze patterns, trends, and business outcomes using visual analytics.
